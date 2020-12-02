@@ -12,5 +12,4 @@ fetch(
 				(item) => item.most_recent_deploys["platform-api"].deployed_at
 			)
 		)
-);
-    
+	);
